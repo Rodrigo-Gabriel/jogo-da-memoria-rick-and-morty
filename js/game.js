@@ -3,14 +3,9 @@ const spanPlayer = document.querySelector('.player');
 const timer = document.querySelector('.timer');
 
 const characters = [
-  'back',
   'beth',
-  'bg',
-  'brain',
-  'cerebro',
   'jerry',
   'jessica',
-  'logo',
   'meeseeks',
   'morty',
   'pessoa-passaro',
